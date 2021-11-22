@@ -1,0 +1,7 @@
+# 网址：https://www.osgeo.cn/qgisdoc/docs/user_manual/processing_algs/qgis/rasterterrainanalysis.html#id25
+# 算法id：
+# 山体阴影：qgis:hillshade
+# 坡度： qgis:slope
+# 耐用指数： qgis:relief
+# 等高线：qgis:hypsometriccurves
+# 坡向：qgis:aspect
